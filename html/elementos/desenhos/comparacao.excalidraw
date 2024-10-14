@@ -34,8 +34,8 @@
     },
     {
       "type": "text",
-      "version": 137,
-      "versionNonce": 85970295,
+      "version": 138,
+      "versionNonce": 746010535,
       "isDeleted": false,
       "id": "wzzcCjXIk2f4x0iyYiD77",
       "fillStyle": "hachure",
@@ -46,7 +46,7 @@
       "angle": 0,
       "x": 473.7293662333705,
       "y": 350.9085477941175,
-      "strokeColor": "#ffffff",
+      "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
       "width": 361.1929931640625,
       "height": 41.82421875,
@@ -55,7 +55,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726676594814,
+      "updated": 1728156663906,
       "link": null,
       "locked": false,
       "fontSize": 33.459375,
@@ -136,7 +136,7 @@
       "containerId": "SKeP-MANKJOipbKRrrL2A",
       "originalText": "div",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -206,7 +206,7 @@
       "containerId": "Tllq-r3XX-UqarluJcv4d",
       "originalText": "span",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -276,7 +276,7 @@
       "containerId": "K81HT-_f7SyBfaaPprFKu",
       "originalText": "div",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -346,7 +346,7 @@
       "containerId": "DfHO_-hMI8sddfCoHwHBA",
       "originalText": "div",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -416,7 +416,7 @@
       "containerId": "JDPdS4IQb11exN-06cMl7",
       "originalText": "div\n\n\n\n",
       "lineHeight": 1.25,
-      "baseline": 167
+      "baseline": 164
     },
     {
       "type": "rectangle",
@@ -486,7 +486,7 @@
       "containerId": "Kh-2AdGrFgBZORVp8Y2Ki",
       "originalText": "div\n\n",
       "lineHeight": 1.25,
-      "baseline": 97
+      "baseline": 94
     },
     {
       "type": "rectangle",
@@ -556,12 +556,12 @@
       "containerId": "Zs8XGkbG3BAfua5uThF3F",
       "originalText": "span",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "text",
-      "version": 184,
-      "versionNonce": 933702009,
+      "version": 186,
+      "versionNonce": 1448040105,
       "isDeleted": false,
       "id": "0pGp8HNVLWgNAFVtL46jB",
       "fillStyle": "hachure",
@@ -570,18 +570,18 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 1012.794468599207,
+      "x": 1012.794483857996,
       "y": 349.8362821691175,
-      "strokeColor": "#ffffff",
+      "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
-      "width": 282.0837707519531,
+      "width": 282.083740234375,
       "height": 41.82421875,
       "seed": 2032263539,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726676594814,
+      "updated": 1728156674189,
       "link": null,
       "locked": false,
       "fontSize": 33.459375,
@@ -691,7 +691,7 @@
       "containerId": "OG5zX51JSUdczVcTiFdRL",
       "originalText": "header",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -761,7 +761,7 @@
       "containerId": "2kylITY8koKBrcrOdWoAV",
       "originalText": "nav",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -831,7 +831,7 @@
       "containerId": "ca481d3UjhzF_qKVCjZq0",
       "originalText": "aside",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -901,7 +901,7 @@
       "containerId": "pKcrcvWVbFxPmH26OqdK6",
       "originalText": "footer",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     },
     {
       "type": "rectangle",
@@ -971,7 +971,7 @@
       "containerId": "gSLLse4V8RmjJFLo3o5ap",
       "originalText": "main\n\n\n\n",
       "lineHeight": 1.25,
-      "baseline": 167
+      "baseline": 164
     },
     {
       "type": "rectangle",
@@ -1041,7 +1041,7 @@
       "containerId": "Au4NUolP5XIc8Wm_7oeUw",
       "originalText": "section\n\n",
       "lineHeight": 1.25,
-      "baseline": 97
+      "baseline": 94
     },
     {
       "type": "rectangle",
@@ -1111,7 +1111,7 @@
       "containerId": "hhuyG5Hw6qJDU0OgyZ3uu",
       "originalText": "p",
       "lineHeight": 1.25,
-      "baseline": 27
+      "baseline": 24
     }
   ],
   "appState": {

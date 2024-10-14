@@ -1,0 +1,26 @@
+### 
+
+# tag do tipo A <a href="https://..." /a> usada para links
+
+CSS Seletores 
+"
+Na declaração do style uma Classe sempre começam por .nome-da-classe 
+Podendo esta classe ser composta, sendo uma classe .botao e a outra .azul ex.: class="botao azul" separados por espaço.
+
+Tag é o mesmo nome da TAG sem nenhum caracter pontuando
+
+id refere-se a um identicador único ex.: id="whatsapp-botao" declarada no style como #whatsapp-botao começa com #
+img {} img significa do tipo imagem
+
+
+Seletores c/ atributos:
+
+tipo lista [lista]
+
+a [href] qualquer link com a propriedade
+
+a [href^='https'] qualquer link que começa com propriedade
+
+a [href$='.pdf'] qualquer link que termina com propriedade
+
+a [href*='contato'] qualquer link que contem a propriedade
