@@ -1,0 +1,39 @@
+
+.escuro {
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+}
+
+.botao-branco {
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.botao-preto {
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.fundo-azul {
+    background-color: #0c76bd;
+}
+
+.fundo-vermelho {
+    background-color: #dc143c;
+}
+
+.fundo-amarelo {
+    background-color: #c8dc14;
+}
+

@@ -24,3 +24,13 @@ a [href^='https'] qualquer link que começa com propriedade
 a [href$='.pdf'] qualquer link que termina com propriedade
 
 a [href*='contato'] qualquer link que contem a propriedade
+
+CSS
+
+Modelo caixa importante, lembrar de fora para dentro, Margin, Border, Padding e Conteúdo
+
+Flexbox é muito utilizado para estilizar sua opalicação web e mobile
+
+
+### JavaScript
+
