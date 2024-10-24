@@ -34,3 +34,4 @@ Flexbox é muito utilizado para estilizar sua opalicação web e mobile
 
 ### JavaScript
 
+Incluenciadas pela linguagem C-Like

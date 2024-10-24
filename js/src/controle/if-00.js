@@ -1,8 +1,8 @@
-let expressao = true;
+let expressao = false;
 
-if (expressao) {
-    console.log('A condição é verdadeira!');
+if (expressao == true) {
+    console.log(`A condição é ${expressao}!`);
     console.log('O código dentro do bloco é executado!');
 }
 
-console.log('Fim');
+console.log('A condição não é verdadeira');

@@ -2,7 +2,7 @@
 
 // AND
 const planejamentoConcluido = true;
-const estaSol = true;
+const estaSol = false;
 const todosEstaoBem = true;
 
 const temPicnic = planejamentoConcluido && estaSol && todosEstaoBem; // AND - E

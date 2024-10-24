@@ -5,5 +5,8 @@ const resultadoDaSoma = x + y;
 
 console.log(resultadoDaSoma);
 
-const xAlterado = x + 10;
+// x = x + 10; A constante x não pode ser alterada
+
+const xAlterado = x + 15;
+
 console.log(x, xAlterado, y);

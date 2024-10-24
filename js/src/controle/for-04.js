@@ -3,7 +3,7 @@ const pedidos = [
     { id: 2, status: 'enviado' },
     { id: 3, status: 'entregue' },
     { id: 4, status: 'cancelado' },
-    { id: 5, status: 'pendente' },
+    { id: 5, status: 'novo' },
 ];
 
 for (const pedido of pedidos) {

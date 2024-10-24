@@ -16,6 +16,11 @@ const carrinho = [
     { nome: 'Boné', quantidade: 3, preco: 30.0 },
 ];
 
+for (i in carrinho) {
+    console.log('Objeto:', carrinho[i]);
+}
+
+
 let totalCompra = 0;
 
 for (let i = 0; i < carrinho.length; i++) {

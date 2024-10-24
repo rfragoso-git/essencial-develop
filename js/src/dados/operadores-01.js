@@ -19,8 +19,8 @@ console.log(x % y);
 
 // Incremento e decremento
 let z = 10;
-z++;
 
+console.log(z);
 console.log(z++); // z = z + 1
 console.log(z);
 console.log(++z);
